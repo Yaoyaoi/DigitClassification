@@ -21,8 +21,7 @@ Apply neural network and SVM for classification for all 10 digits, using the raw
 
 ### code
 * [code](code/)
-* [code instructions(md)](report/readme.md)
-* [code instructions(pdf)](report/readme.pdf)
+* [code instructions](report/readme.md)
 ### Final report
-[report.md](report/report.md)
+[report.md](report/report.md)   
 [report.pdf](report/report.pdf)
